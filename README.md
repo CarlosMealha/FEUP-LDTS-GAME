@@ -117,6 +117,3 @@ up202005954 Carlos Sousa - 34%
 up201506449 Rafael Morgado - 33%
 
 
-## UML diagram
-
-![Uml_Diagram](https://user-images.githubusercontent.com/38360936/150384992-9f92a4bb-2221-435f-9d6e-286b53b9850c.png)
